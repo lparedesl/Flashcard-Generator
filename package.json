@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Generate flashcards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lparedesl/Flashcard-Generator.git"
+  },
+  "author": "Luis Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lparedesl/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/lparedesl/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "*"
+  }
+}
