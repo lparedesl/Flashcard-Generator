@@ -10,5 +10,9 @@
   {
     "front": "Who is the president of Peru?",
     "back": "PPK"
+  },
+  {
+    "front": "What is the capital of Spain?",
+    "back": "Madrid"
   }
 ]
